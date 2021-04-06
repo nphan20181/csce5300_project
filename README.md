@@ -15,3 +15,5 @@ This project tests a variety of different image segmentation methods by performi
    - [Edge-Based Segmentation](https://github.com/nphan20181/csce5300_project/blob/main/Edge_Based_Segmentation/Edge_Based_Segmentation_Method.ipynb)
    - [Simple Threshold Method](https://github.com/nphan20181/csce5300_project/blob/main/SimpleThreshold%20Method/SimpleThresholding.ipynb)
    - [Region Adjacency Graph](https://github.com/nphan20181/csce5300_project/blob/main/region_adjacency_graph/RAG_image_segmentation.ipynb)
+ - __Project Demonstraction__ 
+   - [Interactive Jupyter Notebook](https://github.com/nphan20181/csce5300_project/blob/main/demo.ipynb)
