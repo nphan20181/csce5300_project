@@ -12,7 +12,7 @@ This project tests a variety of different image segmentation methods by performi
      - [Model Predictions](https://github.com/nphan20181/csce5300_project/blob/main/models/unet_predicts.ipynb)
      - [Model's Evaluation based on Foreground Pixels of Predicted Mask](https://github.com/nphan20181/csce5300_project/blob/main/evaluate_model_fg.ipynb)
    - [Otsu Method](https://github.com/nphan20181/csce5300_project/blob/main/Otsu_threshold/Otsu%20Method.ipynb)
-   - [Edge-Based Segmentation](https://github.com/nphan20181/csce5300_project/blob/main/Edge_Based_Segmentation/Edge_Based_Segmentation_Method.ipynb)
+   - [Edge-Based Segmentation](https://github.com/nphan20181/csce5300_project/blob/main/Edge_Based_Segmentation/Edge_Based_Segmentation_Method_v3.ipynb)
    - [Simple Threshold Method](https://github.com/nphan20181/csce5300_project/blob/main/SimpleThreshold%20Method/SimpleThresholding.ipynb)
    - [Region Adjacency Graph](https://github.com/nphan20181/csce5300_project/blob/main/region_adjacency_graph/RAG_image_segmentation.ipynb)
  - __Project Demonstraction__ 
