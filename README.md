@@ -4,7 +4,8 @@ This project tests a variety of different image segmentation methods by performi
 
 # Contents
 
- - [Project Report](https://github.com/nphan20181/csce5300_project/blob/main/Team09_Project%20Report.pdf)
+ - [Project Report](https://github.com/nphan20181/csce5300_project/blob/main/Team09_Project%20Report.pdf))
+ - [Presentation Video](https://www.youtube.com/watch?v=e_j8sj9DkrE)
  - __Dataset:__ [Oxford-IIIT pet dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
  - __Segmentation Methods__
    - Image Segmenation Model
